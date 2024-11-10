@@ -102,4 +102,11 @@ The project showed that certain health indicators are strong predictors of heart
 
 3.Run the notebook:
 * Open HeartDiseasePrediction.ipynb in Jupyter Notebook or JupyterLab.
-  
+
+#Future Improvements
+* Data Expansion: Collect more data to improve model accuracy and generalizability.
+* Additional Features: Explore other health metrics and risk factors, such as family history and lifestyle factors.
+* Model Deployment: Develop an interactive dashboard or application to make the model accessible for real-world use.
+
+#Author
+* Prince Ranjan - Data Scientist - [LinkedIn Profile](https://www.linkedin.com/in/prince-ranjan-5a4191252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
