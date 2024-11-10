@@ -96,3 +96,10 @@ The project showed that certain health indicators are strong predictors of heart
    ```bash
    git clone https://github.com/princeranjan789/HeartDiseasePrediction.git
    cd HeartDiseasePrediction
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3.Run the notebook:
+* Open HeartDiseasePrediction.ipynb in Jupyter Notebook or JupyterLab.
+  
